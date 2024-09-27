@@ -9,13 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+教育背景
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* 硕士：**浙江大学**计算机科学与技术学院软件工程学硕，2025 —— 至今
+* 本科：**浙江大学**计算机科学与技术学院软件工程，2021 —— 2024
 
-Work experience
+科研经历
 ======
 * Spring 2024: Academic Pages Collaborator
   * Github University
@@ -32,14 +31,11 @@ Work experience
   * Duties included: Tagging issues
   * Supervisor: Professor Git
   
-Skills
+个人技能
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* 专业技能
+* 宣传软件
+*   秀米推文制作，PS、AI 绘图修图/ 海报制作，PR 视频剪辑
 
 Publications
 ======
